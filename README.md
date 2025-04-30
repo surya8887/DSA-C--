@@ -39,7 +39,3 @@ Contributions to improve the codebase, add new algorithms, or fix issues are wel
 ## License
 
 This project is open source and available under the MIT License.
-
----
-
-Happy coding and learning!
